@@ -1935,7 +1935,7 @@ msgid "``__hash__``, ``__sizeof__``, ``__repr__`` and ``__str__``"
 msgstr "``__hash__``, ``__sizeof__``, ``__repr__`` і ``__str__``"
 
 msgid "``__dir__``, ``__format__`` and ``__subclasses__``"
-msgstr "``__dir__``, ``__format__`` і ``__підкласи__``"
+msgstr "``__dir__``, ``__format__`` і ``__subclasses__``"
 
 msgid "``__round__``, ``__floor__``, ``__trunc__`` and ``__ceil__``"
 msgstr "``__round__``, ``__floor__``, ``__trunc__`` і ``__ceil__``"
@@ -2184,19 +2184,19 @@ msgstr ""
 "``MagicMock``:"
 
 msgid "``__subclasses__``"
-msgstr "``__підкласи__``"
+msgstr "``__subclasses__``"
 
 msgid "``__dir__``"
 msgstr "``__dir__``"
 
 msgid "``__format__``"
-msgstr "``__формат__``"
+msgstr "``__format__``"
 
 msgid "``__get__``, ``__set__`` and ``__delete__``"
 msgstr "``__get__``, ``__set__`` і ``__delete__``"
 
 msgid "``__reversed__`` and ``__missing__``"
-msgstr "``__перевернуто__`` і ``__пропущено__``"
+msgstr "``__reversed__`` і ``__missing__``"
 
 msgid ""
 "``__reduce__``, ``__reduce_ex__``, ``__getinitargs__``, ``__getnewargs__``, "

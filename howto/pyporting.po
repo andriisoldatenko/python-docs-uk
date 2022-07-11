@@ -384,7 +384,7 @@ msgstr ""
 "зробити дві речі:"
 
 msgid "Add ``from __future__ import division`` to your files"
-msgstr "Додайте ``з __майбутнього__ розділу імпорту`` до своїх файлів"
+msgstr "Додайте ``from __future__ import division`` до своїх файлів"
 
 msgid ""
 "Update any division operator as necessary to either use ``//`` to use floor "

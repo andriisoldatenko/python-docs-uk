@@ -634,14 +634,14 @@ msgid "The name of the module."
 msgstr ""
 
 msgid ":attr:`__file__`"
-msgstr ":attr:`__файл__`"
+msgstr ":attr:`__file__`"
 
 msgid ""
 "The path to where the module data is stored (not set for built-in modules)."
 msgstr ""
 
 msgid ":attr:`__cached__`"
-msgstr ":attr:`__кеш__`"
+msgstr ":attr:`__cached__`"
 
 msgid ""
 "The path to where a compiled version of the module is/should be stored (not "
@@ -649,7 +649,7 @@ msgid ""
 msgstr ""
 
 msgid ":attr:`__path__`"
-msgstr ":attr:`__шлях__`"
+msgstr ":attr:`__path__`"
 
 msgid ""
 "A list of strings specifying the search path within a package. This "
@@ -657,7 +657,7 @@ msgid ""
 msgstr ""
 
 msgid ":attr:`__package__`"
-msgstr ":attr:`__пакет__`"
+msgstr ":attr:`__package__`"
 
 msgid ""
 "The fully-qualified name of the package under which the module was loaded as "
