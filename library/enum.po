@@ -969,7 +969,7 @@ msgstr ""
 "визначення втрачається, перш ніж його можна записати."
 
 msgid "_Private__names"
-msgstr "_Приватні__імена"
+msgstr "_Private__names"
 
 msgid ""
 ":ref:`Private names <private-name-mangling>` will be normal attributes in "

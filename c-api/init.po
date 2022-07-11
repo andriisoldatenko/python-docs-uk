@@ -1018,7 +1018,7 @@ msgstr ""
 "отримати за допомогою :c:func:`PyThreadState_Get`."
 
 msgid "Releasing the GIL from extension code"
-msgstr "Звільнення GIL від коду розширення"
+msgstr "Реліз GIL від коду розширення"
 
 msgid ""
 "Most extension code manipulating the :term:`GIL` has the following simple "

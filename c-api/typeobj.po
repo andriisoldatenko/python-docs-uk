@@ -340,7 +340,7 @@ msgid ":c:type:`descrsetfunc`"
 msgstr ":c:type:`descrsetfunc`"
 
 msgid "__set__, __delete__"
-msgstr "__встановити__, __видалити__"
+msgstr "__set__, __delete__"
 
 msgid ":c:member:`~PyTypeObject.tp_dictoffset`"
 msgstr ":c:member:`~PyTypeObject.tp_dictoffset`"
