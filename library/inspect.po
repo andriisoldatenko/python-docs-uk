@@ -88,7 +88,7 @@ msgid "documentation string"
 msgstr "рядок документації"
 
 msgid "__file__"
-msgstr "__файл__"
+msgstr "__file__"
 
 msgid "filename (missing for built-in modules)"
 msgstr "ім'я файлу (відсутнє для вбудованих модулів)"
@@ -97,7 +97,7 @@ msgid "class"
 msgstr "клас"
 
 msgid "__name__"
-msgstr "__ім'я__"
+msgstr "__name__"
 
 msgid "name with which this class was defined"
 msgstr "ім'я, з яким було визначено цей клас"
@@ -142,13 +142,13 @@ msgid "name with which this function was defined"
 msgstr "ім'я, з яким ця функція була визначена"
 
 msgid "__code__"
-msgstr "__код__"
+msgstr "__code__"
 
 msgid "code object containing compiled function :term:`bytecode`"
 msgstr "об'єкт коду, що містить скомпільовану функцію :term:`bytecode`"
 
 msgid "__defaults__"
-msgstr "__за умовчанням__"
+msgstr "__defaults__"
 
 msgid "tuple of any default values for positional or keyword parameters"
 msgstr ""
@@ -176,7 +176,7 @@ msgid "builtins namespace"
 msgstr "вбудований простір імен"
 
 msgid "__annotations__"
-msgstr "__анотації__"
+msgstr "__annotations__"
 
 msgid ""
 "mapping of parameters names to annotations; ``\"return\"`` key is reserved "
@@ -189,7 +189,7 @@ msgid "name of module in which this function was defined"
 msgstr "ім'я модуля, в якому була визначена ця функція"
 
 msgid "traceback"
-msgstr "простежити"
+msgstr "traceback"
 
 msgid "tb_frame"
 msgstr "tb_frame"
@@ -216,7 +216,7 @@ msgid "next inner traceback object (called by this level)"
 msgstr "наступний внутрішній об'єкт трасування (викликається цим рівнем)"
 
 msgid "frame"
-msgstr "рамка"
+msgstr "frame"
 
 msgid "f_back"
 msgstr "f_back"
@@ -292,7 +292,7 @@ msgid "tuple of constants used in the bytecode"
 msgstr "кортеж констант, що використовуються в байт-коді"
 
 msgid "co_filename"
-msgstr "спів_ім'я файлу"
+msgstr "co_filename"
 
 msgid "name of file in which this code object was created"
 msgstr "ім'я файлу, в якому створено цей об'єкт коду"
@@ -369,10 +369,10 @@ msgid "tuple of names of arguments and local variables"
 msgstr "кортеж імен аргументів і локальних змінних"
 
 msgid "generator"
-msgstr "генератор"
+msgstr "generator"
 
 msgid "name"
-msgstr "назва"
+msgstr "name"
 
 msgid "gi_frame"
 msgstr "gi_frame"
@@ -393,7 +393,7 @@ msgid "object being iterated by ``yield from``, or ``None``"
 msgstr "об’єкт повторюється за допомогою ``yield from`` або ``None``"
 
 msgid "coroutine"
-msgstr "співпрограма"
+msgstr "coroutine"
 
 msgid "cr_await"
 msgstr "cr_await"
@@ -421,7 +421,7 @@ msgstr ""
 "де була створена співпрограма, або ``None``. Див. |coroutine-origin-link|"
 
 msgid "builtin"
-msgstr "вбудований"
+msgstr "builtin"
 
 msgid "original name of this function or method"
 msgstr "оригінальна назва цієї функції або методу"

@@ -306,7 +306,7 @@ msgid "**_**"
 msgstr "******"
 
 msgid ":func:`__import__`"
-msgstr ":func:`__імпорт__`"
+msgstr ":func:`__import__`"
 
 msgid ""
 "Return the absolute value of a number.  The argument may be an integer, a "

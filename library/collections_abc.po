@@ -143,13 +143,13 @@ msgid ":class:`Container` [1]_"
 msgstr ":class:`Container` [1]_"
 
 msgid "``__contains__``"
-msgstr "``__містить__``"
+msgstr "``__contains__``"
 
 msgid ":class:`Hashable` [1]_"
 msgstr ":class:`Hashable` [1]_"
 
 msgid "``__hash__``"
-msgstr "``__хеш__``"
+msgstr "``__hash__``"
 
 msgid ":class:`Iterable` [1]_ [2]_"
 msgstr ":class:`Iterable` [1]_ [2]_"
@@ -164,13 +164,13 @@ msgid ":class:`Iterable`"
 msgstr ":class:`Iterable`"
 
 msgid "``__next__``"
-msgstr "``__наступний__``"
+msgstr "``__next__``"
 
 msgid ":class:`Reversible` [1]_"
 msgstr ":class:`Reversible` [1]_"
 
 msgid "``__reversed__``"
-msgstr "``__перевернуто__``"
+msgstr "``__reversed__``"
 
 msgid ":class:`Generator`  [1]_"
 msgstr ":class:`Generator` [1]_"
@@ -182,7 +182,7 @@ msgid "``send``, ``throw``"
 msgstr "``відправити``, ``кинути``"
 
 msgid "``close``, ``__iter__``, ``__next__``"
-msgstr "``закрити``, ``__ітер__``, ``__наступний__``"
+msgstr "``закрити``, ``__iter__``, ``__next__``"
 
 msgid ":class:`Sized`  [1]_"
 msgstr ":class:`Sized` [1]_"
@@ -194,7 +194,7 @@ msgid ":class:`Callable`  [1]_"
 msgstr ":class:`Callable` [1]_"
 
 msgid "``__call__``"
-msgstr "``__дзвінок__``"
+msgstr "``__call__``"
 
 msgid ":class:`Collection`  [1]_"
 msgstr ":class:`Collection` [1]_"
@@ -322,7 +322,7 @@ msgid ":class:`Awaitable` [1]_"
 msgstr ":class:`Awaitable` [1]_"
 
 msgid "``__await__``"
-msgstr "``__чекай__``"
+msgstr "``__await__``"
 
 msgid ":class:`Coroutine` [1]_"
 msgstr ":class:`Coroutine` [1]_"
@@ -346,7 +346,7 @@ msgid ":class:`AsyncIterable`"
 msgstr ":class:`AsyncIterable`"
 
 msgid "``__anext__``"
-msgstr "``__наступний__``"
+msgstr "``__anext__``"
 
 msgid ":class:`AsyncGenerator` [1]_"
 msgstr ":class:`AsyncGenerator` [1]_"
