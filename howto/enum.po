@@ -883,7 +883,7 @@ msgstr ""
 "визначення втрачається, перш ніж його можна записати."
 
 msgid "_Private__names"
-msgstr "_Приватні__імена"
+msgstr "_Private__names"
 
 msgid ""
 "Private names are not converted to enum members, but remain normal "

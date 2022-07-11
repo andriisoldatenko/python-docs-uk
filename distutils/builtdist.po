@@ -460,7 +460,7 @@ msgid "default value"
 msgstr "значення за замовчуванням"
 
 msgid "Release"
-msgstr "Звільнення"
+msgstr "Реліз"
 
 msgid "``release``"
 msgstr "``release``"
