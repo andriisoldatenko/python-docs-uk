@@ -77,6 +77,7 @@ msgid ""
 "Raises an :ref:`auditing event <auditing>` ``sys.addaudithook`` with no "
 "arguments."
 msgstr ""
+"Викликає :ref:`подію аудиту <auditing>` ``sys.addaudithook`` без аргументів."
 
 msgid ""
 "Calling :func:`sys.addaudithook` will itself raise an auditing event named "
