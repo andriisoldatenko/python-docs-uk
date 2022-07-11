@@ -220,7 +220,7 @@ msgid "Written and implemented by Jeremy Hylton."
 msgstr "Написаний і реалізований Джеремі Гілтоном."
 
 msgid "PEP 236: __future__ Directives"
-msgstr "PEP 236: __майбутні__ директиви"
+msgstr "PEP 236: директиви __future__"
 
 msgid ""
 "The reaction to nested scopes was widespread concern about the dangers of "
@@ -261,7 +261,7 @@ msgstr ""
 "призведе до створення байт-кодів."
 
 msgid ":pep:`236` - Back to the :mod:`__future__`"
-msgstr ":pep:`236` - Назад у :mod:`__майбутнє__`"
+msgstr ":pep:`236` - Назад у :mod:`__future__`"
 
 msgid "Written by Tim Peters, and primarily implemented by Jeremy Hylton."
 msgstr "Написаний Тімом Пітерсом, а в основному реалізований Джеремі Гілтоном."

@@ -882,7 +882,7 @@ msgid ""
 msgstr ""
 "Повертає причину (або екземпляр винятку, або :const:`None`, встановлений "
 "``raise ... from ...``), пов’язану з винятком як нове посилання, доступне з "
-"Python через :attr:`__причина__`."
+"Python через :attr:`__cause__`."
 
 msgid ""
 "Set the cause associated with the exception to *cause*.  Use ``NULL`` to "

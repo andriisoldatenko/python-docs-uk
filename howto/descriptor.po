@@ -1105,7 +1105,7 @@ msgid ""
 msgstr ""
 
 msgid "Member objects and __slots__"
-msgstr "Об'єкти-члени та __слоти__"
+msgstr "Об'єкти-члени та __slots__"
 
 msgid ""
 "When a class defines ``__slots__``, it replaces instance dictionaries with a "
