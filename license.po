@@ -80,7 +80,7 @@ msgstr ""
 "також були GPL-сумісними; таблиця нижче підсумовує різні випуски."
 
 msgid "Release"
-msgstr "Звільнення"
+msgstr "Реліз"
 
 msgid "Derived from"
 msgstr "Походить з"
@@ -269,7 +269,7 @@ msgstr ""
 "дослівні коментарі з оригінального коду:"
 
 msgid "Sockets"
-msgstr "Розетки"
+msgstr "Сокети"
 
 msgid ""
 "The :mod:`socket` module uses the functions, :func:`getaddrinfo`, and :func:"
@@ -364,7 +364,7 @@ msgstr ""
 "OpenSSL тут:"
 
 msgid "expat"
-msgstr "експат"
+msgstr "expat"
 
 msgid ""
 "The :mod:`pyexpat` extension is built using an included copy of the expat "

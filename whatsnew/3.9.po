@@ -29,7 +29,7 @@ msgid "What's New In Python 3.9"
 msgstr "Що нового в Python 3.9"
 
 msgid "Release"
-msgstr "Звільнення"
+msgstr "Реліз"
 
 msgid "|release|"
 msgstr "|release|"
