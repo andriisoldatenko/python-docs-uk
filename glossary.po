@@ -958,7 +958,7 @@ msgstr ""
 "про найкращі практики роботи з анотаціями."
 
 msgid "__future__"
-msgstr "__майбутнє__"
+msgstr "__future__"
 
 msgid ""
 "A :ref:`future statement <future>`, ``from __future__ import <feature>``, "
@@ -1605,7 +1605,7 @@ msgid ""
 msgstr ""
 "Функція, яка визначена всередині тіла класу. Якщо викликати його як атрибут "
 "примірника цього класу, метод отримає об’єкт примірника як свій перший :term:"
-"``argument`` (який зазвичай називається ``self``). Див. :term:`function` і :"
+"`argument` (який зазвичай називається ``self``). Див. :term:`function` і :"
 "term:`nested scope`."
 
 msgid "method resolution order"
@@ -2126,7 +2126,7 @@ msgid "See also :term:`namespace package`."
 msgstr "Дивіться також :term:`namespace package`."
 
 msgid "__slots__"
-msgstr "__слоти__"
+msgstr "__slots__"
 
 msgid ""
 "A declaration inside a class that saves memory by pre-declaring space for "
